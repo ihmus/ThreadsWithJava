@@ -1,1 +1,1 @@
-<h3>Theese are thread semaphore metods</h3>
+<h3>These are thread semaphore metods</h3>
